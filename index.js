@@ -136,7 +136,7 @@ document.getElementById("nextMonth").addEventListener("click", () => {
 });
 
 // Funcao para fechar o modal
-document.getElementById("close").addEventListener("click", () => {
+document.querySelector(".close").addEventListener("click", () => {
   document.getElementById("gameModal").style.display = "none";
 });
 
