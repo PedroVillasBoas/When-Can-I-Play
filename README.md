@@ -60,8 +60,12 @@
     - Click the "About" button to view information about the website and the developer.
 
 ### Example Images
-![Main Screen](https://your-repository-url/screenshot.png)
-![Game Modal](https://your-repository-url/game-modal.png)
+![Main Screen Dark Theme](https://raw.githubusercontent.com/PedroVillasBoas/Games-Launch-List/master/img/img-when-can-i-play-dark-theme-fullscreen.jpeg)
+![Modal Dark Theme](https://raw.githubusercontent.com/PedroVillasBoas/Games-Launch-List/master/img/img-when-can-i-play-dark-theme-modal.jpeg)
+![Main Screen Light Theme](https://raw.githubusercontent.com/PedroVillasBoas/Games-Launch-List/master/img/img-when-can-i-play-light-theme-fullscreen.jpeg)
+![Modal Light Theme](https://raw.githubusercontent.com/PedroVillasBoas/Games-Launch-List/master/img/img-when-can-i-play-light-theme-modal.jpeg)
+
+
 
 ## Contributing
 ### How to contribute
