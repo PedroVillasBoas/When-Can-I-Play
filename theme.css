@@ -1,0 +1,318 @@
+/* ===================================================== */
+/* ============ Styles for the Light Theme ============ */
+/* ===================================================== */
+
+/* #region Light Mode Theme Style */
+body.light-mode {
+    color: #333;
+}
+
+body.light-mode .background {
+    background: #f0f8ff
+}
+
+body.light-mode .background span:nth-child(0),
+body.light-mode .background span:nth-child(5),
+body.light-mode .background span:nth-child(6),
+body.light-mode .background span:nth-child(9),
+body.light-mode .background span:nth-child(10),
+body.light-mode .background span:nth-child(13),
+body.light-mode .background span:nth-child(15),
+body.light-mode .background span:nth-child(22),
+body.light-mode .background span:nth-child(25),
+body.light-mode .background span:nth-child(34),
+body.light-mode .background span:nth-child(35),
+body.light-mode .background span:nth-child(36),
+body.light-mode .background span:nth-child(38),
+body.light-mode .background span:nth-child(40),
+body.light-mode .background span:nth-child(44),
+body.light-mode .background span:nth-child(47) {
+    color: #C9C3DB;
+
+}
+
+body.light-mode .background span:nth-child(1),
+body.light-mode .background span:nth-child(2),
+body.light-mode .background span:nth-child(3),
+body.light-mode .background span:nth-child(4),
+body.light-mode .background span:nth-child(7),
+body.light-mode .background span:nth-child(8),
+body.light-mode .background span:nth-child(17),
+body.light-mode .background span:nth-child(19),
+body.light-mode .background span:nth-child(21),
+body.light-mode .background span:nth-child(23),
+body.light-mode .background span:nth-child(29),
+body.light-mode .background span:nth-child(43),
+body.light-mode .background span:nth-child(46) {
+    color: #CFE273;
+
+}
+
+body.light-mode .background span:nth-child(11),
+body.light-mode .background span:nth-child(12),
+body.light-mode .background span:nth-child(14),
+body.light-mode .background span:nth-child(16),
+body.light-mode .background span:nth-child(18),
+body.light-mode .background span:nth-child(20),
+body.light-mode .background span:nth-child(24),
+body.light-mode .background span:nth-child(26),
+body.light-mode .background span:nth-child(27),
+body.light-mode .background span:nth-child(28),
+body.light-mode .background span:nth-child(30),
+body.light-mode .background span:nth-child(31),
+body.light-mode .background span:nth-child(32),
+body.light-mode .background span:nth-child(33),
+body.light-mode .background span:nth-child(37),
+body.light-mode .background span:nth-child(39),
+body.light-mode .background span:nth-child(41),
+body.light-mode .background span:nth-child(42),
+body.light-mode .background span:nth-child(45),
+body.light-mode .background span:nth-child(48),
+body.light-mode .background span:nth-child(49) {
+    color: #01B4D5;
+
+}
+
+/* VER DEPOIS QUANDO ACABAR QUAL A COR DISSO NO CLARO */
+body.light-mode .checkbox-wrapper-5 .check {
+    background: linear-gradient(90deg, #444, #777); /* Button Background Light Mode */
+
+}
+
+body.light-mode .checkbox-wrapper-5 .check label {
+    background: #d7d7d7; /* Button Background Light Mode */
+}
+
+body.light-mode .checkbox-wrapper-5 .check input[type="checkbox"] {
+    background: linear-gradient(45deg, #EEED09, #FFFFCC); /*Background Happy Head Light Mode */
+}
+
+body.light-mode h1 {
+    color: rgba(17, 16, 16, 0.45); /* Title Color */
+}
+
+body.light-mode .subtitle {
+    color: #333; /* Subtitle Color */
+}
+
+body.light-mode button {
+    border: 0.125em solid #ccbfbf; /* Button Border Color */
+    color: #333; /* Button Text Color */
+}
+
+body.light-mode button:hover {
+    border: 0.125em solid #444; /* Button Hover Border Color */
+    background-color: #FFFFFA; /* Button Hover Background Color */
+    color: #444; /* Button Hover Text Color */
+}
+
+body.light-mode #calendar {
+    background: rgba(255, 255, 250, 0.6); /* Calendar Background Color */
+    border: 1px solid rgb(204, 191, 191); /* Calendar Border Color */
+}
+
+body.light-mode .date {
+    border: 1px solid #ccbfbf; /* Date Border Color */
+    background-color: #f0f8ff; /* Date Background Color */
+} 
+
+body.light-mode .date strong {
+    background: rgba(255, 255, 250, 0.5); /* Date Number Background Color */
+    color: #333; /* Date Number Color */
+    border: 1px solid rgb(204, 191, 191); /* Date Number Border Color */
+}
+
+body.light-mode .game-details {
+    background: rgba(240, 248, 255, 0.8); /* Game Name outside of modal Background Color */
+    border: 1px solid #ccbfbf; /* Game Details Border Color */
+}
+
+body.light-mode .modal {
+    background-color: rgba(240, 248, 255, 0.7); /* Outside of Modal Background Color */
+}
+
+body.light-mode .modal-content {
+    background-color: #FFFFFA; /* Modal Background Color */
+    box-shadow: 0 8px 16px rgba(255, 255, 255, 0.5); /* Modal Box Shadow */
+}
+
+body.light-mode .close {
+    color: #333; /* Close Button Color */
+}
+
+body.light-mode #game-description h5 {
+    color: #333; /* Game Description Title Color */
+}
+
+body.light-mode footer {
+    color: #333; /* Footer Text Color */
+    background: rgba(255, 255, 250, 0.88); /* Footer Background Color */
+    box-shadow: 0 8px 16px rgba(255, 255, 255, 0.1); /* Footer Box Shadow */
+    border: 1px solid #ccbfbf; /* Footer Border Color */
+}
+
+body.light-mode .footer-content a {
+    color: #444; /* Footer Icons Text Color */
+}
+
+body.light-mode .footer-content a:hover {
+    color: #66A2CC; /* Footer Icons Hover Text Color */
+}
+/* #endregion */
+
+/* ===================================================== */
+/* ============= Styles for the Dark Theme ============= */
+/* ===================================================== */
+
+/* #region Dark Mode Theme Style */
+body.dark-mode {
+    color: #eaeaea;
+}
+
+body.dark-mode .background {
+    background: #212121 /* Background Balls Color */
+}
+
+body.dark-mode .background span:nth-child(0),
+body.dark-mode .background span:nth-child(5),
+body.dark-mode .background span:nth-child(6),
+body.dark-mode .background span:nth-child(9),
+body.dark-mode .background span:nth-child(10),
+body.dark-mode .background span:nth-child(13),
+body.dark-mode .background span:nth-child(15),
+body.dark-mode .background span:nth-child(22),
+body.dark-mode .background span:nth-child(25),
+body.dark-mode .background span:nth-child(34),
+body.dark-mode .background span:nth-child(35),
+body.dark-mode .background span:nth-child(36),
+body.dark-mode .background span:nth-child(38),
+body.dark-mode .background span:nth-child(40),
+body.dark-mode .background span:nth-child(44),
+body.dark-mode .background span:nth-child(47) {
+    color: #4b9cd3;
+
+}
+
+body.dark-mode .background span:nth-child(1),
+body.dark-mode .background span:nth-child(2),
+body.dark-mode .background span:nth-child(3),
+body.dark-mode .background span:nth-child(4),
+body.dark-mode .background span:nth-child(7),
+body.dark-mode .background span:nth-child(8),
+body.dark-mode .background span:nth-child(17),
+body.dark-mode .background span:nth-child(19),
+body.dark-mode .background span:nth-child(21),
+body.dark-mode .background span:nth-child(23),
+body.dark-mode .background span:nth-child(29),
+body.dark-mode .background span:nth-child(43),
+body.dark-mode .background span:nth-child(46) {
+    color: #1f75fe;
+
+}
+
+body.dark-mode .background span:nth-child(11),
+body.dark-mode .background span:nth-child(12),
+body.dark-mode .background span:nth-child(14),
+body.dark-mode .background span:nth-child(16),
+body.dark-mode .background span:nth-child(18),
+body.dark-mode .background span:nth-child(20),
+body.dark-mode .background span:nth-child(24),
+body.dark-mode .background span:nth-child(26),
+body.dark-mode .background span:nth-child(27),
+body.dark-mode .background span:nth-child(28),
+body.dark-mode .background span:nth-child(30),
+body.dark-mode .background span:nth-child(31),
+body.dark-mode .background span:nth-child(32),
+body.dark-mode .background span:nth-child(33),
+body.dark-mode .background span:nth-child(37),
+body.dark-mode .background span:nth-child(39),
+body.dark-mode .background span:nth-child(41),
+body.dark-mode .background span:nth-child(42),
+body.dark-mode .background span:nth-child(45),
+body.dark-mode .background span:nth-child(48),
+body.dark-mode .background span:nth-child(49) {
+    color: #0e3386;
+
+}
+
+body.dark-mode .checkbox-wrapper-5 .check {
+    background: linear-gradient(90deg, #444, #777); /* Button Background Dark Mode */
+
+}
+
+body.dark-mode .checkbox-wrapper-5 .check label {
+    background: #d7d7d7; /* Button Background Dark Mode */
+}
+
+body.dark-mode .checkbox-wrapper-5 .check input[type="checkbox"] {
+    background: linear-gradient(45deg, #dedede, #ffffff); /* Happy Head Color */
+}
+
+body.dark-mode h1 {
+    color: rgba(255, 255, 255, 0.45); /* Title Color */
+}
+
+body.dark-mode .subtitle {
+    color: #eaeaea; /* Subtitle Color */
+}
+
+body.dark-mode button {
+    border: 0.125em solid #eaeaea; /* Button Border Color */
+    color: #eaeaea; /* Button Text Color */
+}
+
+body.dark-mode button:hover {
+    color: #fff; /* Button Text Color */
+    border: 0.125em solid #444; /* Button Border Color */
+    background-color: #1A1A1A; /* Button Background Color */
+}
+
+body.dark-mode #calendar {
+    background: rgba(68, 68, 68, 0.88); /* Calendar Background Color */
+    border: 1px solid rgba(68, 68, 68, 1);
+}
+
+body.dark-mode .date {
+    border: 1px solid #444; /* Date Border Color */
+    background-color: #333; /* Date Background Color */
+} 
+
+body.dark-mode .date strong {
+    background: rgba(0, 0, 0, 0.5); /* Date Background Color */
+}
+
+body.dark-mode .game-details {
+    background: rgba(0, 0, 0, 0.7); /* Game Name outside of modal Background Color */
+}
+
+body.dark-mode .modal {
+    background-color: rgba(0, 0, 0, 0.7); /* Modal Background Color */
+}
+
+body.dark-mode .modal-content {
+    background-color: #1a1a1a; /* Modal Content Background Color */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Modal Shadow */
+}
+
+body.dark-mode .close {
+    color: #eaeaea; /* Close Button Color */
+}
+
+body.dark-mode #game-description h5 {
+    color: #eaeaea; /* Game Description Color */
+}
+
+body.dark-mode footer {
+    color: #eaeaea; /* Footer Text Color */
+    background: rgba(68, 68, 68, 0.88); /* Footer Background Color */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Footer Shadow Color */
+}
+
+body.dark-mode .footer-content a {
+    color: #66A2CC; /* Footer Icons Text Color */
+}
+
+body.dark-mode .footer-content a:hover {
+    color: #eaeaea; /* Footer Icons Hover Text Color */
+}
+/* #endregion */
