@@ -35,7 +35,7 @@
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/PedroVillasBoas/games-launch-list.git
+    git clone https://github.com/PedroVillasBoas/When-Can-I-Play.git
     ```
 
 2. **Navigate to the project directory**:
