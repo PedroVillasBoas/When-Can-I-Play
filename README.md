@@ -63,22 +63,22 @@
 ## Screenshots
 
 ### Dark Theme Main Screen
-![Main Screen Dark Theme](https://raw.githubusercontent.com/PedroVillasBoas/Games-Launch-List/master/img/img-when-can-i-play-dark-theme-fullscreen.jpeg)
+![Main Screen Dark Theme](https://raw.githubusercontent.com/PedroVillasBoas/When-Can-I-Play/master/img/img-when-can-i-play-dark-theme-fullscreen.jpeg)
 
 Here you can see the main screen of the application in dark mode, showcasing the calendar view with game releases.
 
 ### Dark Theme Modal View
-![Modal Dark Theme](https://raw.githubusercontent.com/PedroVillasBoas/Games-Launch-List/master/img/img-when-can-i-play-dark-theme-modal.jpeg)
+![Modal Dark Theme](https://raw.githubusercontent.com/PedroVillasBoas/When-Can-I-Play/master/img/img-when-can-i-play-dark-theme-modal.jpeg)
 
 This is the modal view in dark theme where detailed information about a game is displayed.
 
 ### Light Theme Main Screen
-![Main Screen Light Theme](https://raw.githubusercontent.com/PedroVillasBoas/Games-Launch-List/master/img/img-when-can-i-play-light-theme-fullscreen.jpeg)
+![Main Screen Light Theme](https://raw.githubusercontent.com/PedroVillasBoas/When-Can-I-Play/master/img/img-when-can-i-play-light-theme-fullscreen.jpeg)
 
 Here you can see the main screen of the application in light mode, displaying the calendar with game releases.
 
 ### Light Theme Modal View
-![Modal Light Theme](https://raw.githubusercontent.com/PedroVillasBoas/Games-Launch-List/master/img/img-when-can-i-play-light-theme-modal.jpeg)
+![Modal Light Theme](https://raw.githubusercontent.com/PedroVillasBoas/When-Can-I-Play/master/img/img-when-can-i-play-light-theme-modal.jpeg)
 
 This is the modal view in light theme, presenting detailed information about a selected game.
 
